@@ -1,0 +1,5 @@
+I"C(function() {
+  $('.ui.checkbox').checkbox();
+
+}).call(this);
+:ET
